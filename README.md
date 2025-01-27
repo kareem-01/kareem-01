@@ -22,13 +22,8 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareem-01" alt="kareem-01" /></a> </p>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working on **my graduation project**
 
-- 🌱 I’m currently learning **AR in Android**
-
-- 🤝 I’m looking for help with **SceneView and ArCore**
-
-- 💬 Ask me about **Android , Kotlin**
+- 💬 Ask me about **Android , Kotlin, Flutter**
 
 
 <h3 align="left">Connect with me:</h3>
