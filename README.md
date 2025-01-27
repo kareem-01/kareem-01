@@ -64,8 +64,8 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kareem-01&show_icons=true&layout=compact&theme=gotham" alt="kareem-01" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kareem-01&show_icons=true&theme=gotham" alt="kareem-01" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kareem-01&theme=gotham" alt="kareem-01" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kareem-01&theme=gotham" alt="kareem-01" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kareem-01&show_icons=true&theme=gotham" alt="kareem-01" /></p>
 
 <!--<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p> -->
