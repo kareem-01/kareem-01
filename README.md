@@ -16,13 +16,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me **kareemesam321@gmail.com**
 
 -->
-<h1 align="center">Hi 👋, I'm kareem</h1>
-<h3 align="center">A passionate Android developer from Egypt</h3>
+<h1 align="center">Hi 👋</h1>
 
+<!--
+<h3 align="center">A passionate Android developer from Egypt</h3>
+-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareem-01" alt="kareem-01" /></a> </p>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-
+- 🔭 I’m currently working as an Android Developer at [AAIT](https://www.linkedin.com/company/aait)
 - 💬 Ask me about **Android , Kotlin, Flutter**
 
 
