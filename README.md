@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareem-01" alt="kareem-01" /></a> </p>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working as an Android Developer at [AAIT](https://www.linkedin.com/company/aait)
+- 🔭 I’m currently working as an Android Developer at [Genie9](https://www.linkedin.com/company/genie9/)
 - 💬 Ask me about **Android , Kotlin, Flutter**
 
 
