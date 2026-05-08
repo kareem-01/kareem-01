@@ -16,58 +16,89 @@ Here are some ideas to get you started:
 - 📫 How to reach me **kareemesam321@gmail.com**
 
 -->
-<h1 align="center">Hi 👋</h1>
+ <h1 align="center">Hi, I'm Kareem 👋</h1>
 
-<!--
-<h3 align="center">A passionate Android developer from Egypt</h3>
--->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareem-01" alt="kareem-01" /></a> </p>
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+ <h3 align="center">Android Engineer · Kotlin · Jetpack Compose · KMP</h3>
 
-- 🔭 I’m currently working as an Android Developer at [Genie9](https://www.linkedin.com/company/genie9/)
-- 💬 Ask me about **Android , Kotlin, Flutter**
+ <p align="center">
+   <a href="https://github.com/ryo-ma/github-profile-trophy">
+     <img src="https://github-profile-trophy.vercel.app/?username=kareem-01&theme=gruvbox&no-frame=true&row=1&column=7" alt="trophies"/>
+   </a>
+ </p>
+
+ ---
+
+ ### About me
+
+ Android engineer at **Genie9**, working on a backup app with **5M+ downloads**. Focused on performance, clean architecture, and shipping reliable software at scale. Practical experience in **Flutter**; exploring **Kotlin Multiplatform**.
+
+ Recent highlights from production work:
+
+ - ⚡ **225× SQLite optimization** — cut initial backup sync from ~2.5 hours to ~40 seconds on 26K-photo libraries
+ - 🛠️  **70%+ crash-impact reduction** across legacy Java modules
+ - 📍 Built a custom **Web Mercator** static-tile map renderer from scratch (no map SDK)
+ - 🤖 Adopted **Claude Code** in production workflow for root-cause investigations and legacy refactors
+
+ > Source code lives in private repos.
+
+ ---
+ <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+ ### 🛠 Tech I work with
+ **Android & Kotlin**
+
+ ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+ ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+ ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+ ![Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat-square)
+ ![Flow](https://img.shields.io/badge/Flow-7F52FF?style=flat-square)
+ ![Hilt](https://img.shields.io/badge/Hilt-2196F3?style=flat-square)
+ ![Room](https://img.shields.io/badge/Room-4285F4?style=flat-square)
+ ![WorkManager](https://img.shields.io/badge/WorkManager-4285F4?style=flat-square)
+ ![Paging 3](https://img.shields.io/badge/Paging%203-4285F4?style=flat-square)
+
+ **Cross-platform**
+
+ ![KMP](https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+ ![Compose Multiplatform](https://img.shields.io/badge/Compose%20Multiplatform-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+ ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+ ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+
+ **Tools & Platforms**
+
+ ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+ ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+ ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+ ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+ ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+ ![MapLibre](https://img.shields.io/badge/MapLibre-396CB2?style=flat-square)
+ ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=flat-square&logo=anthropic&logoColor=white)
+
+ ---
+ ### 📊 GitHub stats
+
+ <p align="center">
+   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kareem-01&theme=gotham" alt="profile"/>
+ </p>
+
+ <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kareem-01&theme=gotham" alt="top languages by repo" height="180"/>
+ <img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kareem-01&theme=gotham" alt="top languages by commit" height="180"/>
+
+ <br clear="all"/>
+
+ <img align="left" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kareem-01&theme=gotham" alt="stats" height="180"/>
+ <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kareem-01&theme=gotham" alt="streak" height="180"/>
+
+ <br clear="all"/>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kareem-esam-264167225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kareem-esam-264167225" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100079020289313&mibextid=zlopmf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100079020289313&mibextid=zlopmf" height="30" width="40" /></a>
-<a href="https://www.instagram.com/0_0ikr?igsh=YmMzZHg0cjdkcnhs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.facebook.com/profile.php?id=100079020289313&mibextid=zlopmf" height="30" width="40" /></a>
-  
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android"
-      width="40" height="40"/> </a>
-    <img width="12" />
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"
-      height="40"/> </a>
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
-  <img width="12" />
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> 
-   <img width="12" />
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-   <img width="12" />
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-   <img width="12" />
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> 
-    <img width="12" />
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <img width="12" />
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-    <img width="12" />
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a>
-    <img width="12" />
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>   <img width="12" />
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
+ ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kareem-01&show_icons=true&layout=compact&theme=gotham" alt="kareem-01" /></p>
+ ### 🌐 Connect
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kareem-01&theme=gotham" alt="kareem-01" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=kareem-01&show_icons=true&theme=gotham" alt="kareem-01" /></p>
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kareem-esam-264167225)
+ [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kareem.eldeen.esam@gmail.com)
+ 
 
 <!--<p align="center"> <img src="https://github.com/CrazyChickenDev/CrazyChickenDev/blob/master/assets/source.gif" /> </p> -->
