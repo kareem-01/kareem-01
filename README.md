@@ -21,8 +21,8 @@ Here are some ideas to get you started:
  <h3 align="center">Android Engineer · Kotlin · Jetpack Compose · KMP</h3>
 
  <p align="center">
-   <a href="https://github.com/ryo-ma/github-profile-trophy">
-     <img src="https://github-profile-trophy.vercel.app/?username=kareem-01&theme=gruvbox&no-frame=true&row=1&column=7" alt="trophies"/>
+   <a href="https://github.com/kareem-01/github-profile-trophy">
+     <img src="https://github-profile-trophy-murex-xi.vercel.app/?username=kareem-01&theme=gruvbox&no-frame=true&row=1&column=7" alt="trophies"/>
    </a>
  </p>
 
